@@ -1,0 +1,58 @@
+PODS:
+  - AMap3DMap (6.9.0):
+    - AMapFoundation (~> 1.5)
+  - AMapFoundation (1.5.7)
+  - AMapLocation (2.6.2):
+    - AMapFoundation (~> 1.4)
+  - AMapSearch (6.9.0):
+    - AMapFoundation (~> 1.4)
+  - AvoidCrash (2.5.2)
+  - Bugly (2.5.0)
+  - JCore (2.1.1)
+  - JPush (3.2.1):
+    - JCore (< 3.0.0, >= 2.0.0)
+  - MJExtension (3.1.0)
+  - PinYin4Objc (1.1.1)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - AMap3DMap
+  - AMapLocation
+  - AMapSearch
+  - AvoidCrash
+  - Bugly
+  - JPush
+  - MJExtension
+  - PinYin4Objc
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AMap3DMap
+    - AMapFoundation
+    - AMapLocation
+    - AMapSearch
+    - AvoidCrash
+    - Bugly
+    - JCore
+    - JPush
+    - MJExtension
+    - PinYin4Objc
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  AMap3DMap: c80b264f08f179d9b0949b84c65fc1a51dec9d6f
+  AMapFoundation: 216d58448c80356434ac4332250a8fdb2f5c4d1e
+  AMapLocation: 89a7e4eb6040d32ba73c77a4966ecc66e46aa7c3
+  AMapSearch: af02822537e55b85a4752e9df5c19e4b9da82031
+  AvoidCrash: 28c6916fe19bd2b84126b8dec7cbe61c9a12741d
+  Bugly: 3ca9f255c01025582df26f9222893b383c7e4b4e
+  JCore: 4072327557f0b83cc22dd4041f2f839740c0077b
+  JPush: a1ff8b8ec53fa3419b414946e4db4efa313baeae
+  MJExtension: 6b69b3bef2864fd550ce1a184eda219e321209d2
+  PinYin4Objc: 3fa9673610368330e2dfb688b1d19a35c3930a78
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 6eee4a011e599d40e7c0872fa27dc5cd71561a57
+
+COCOAPODS: 1.5.3
