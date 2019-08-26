@@ -26,13 +26,13 @@
 ### 基本UI：
 <h2 align"center">
 
-<img src="/libs/images/01.png" width="210" height="606"/>
-<img src="/libs/images/02.png" width="210" height="606"/>
-<img src="/libs/images/03.png" width="210" height="606"/>
+<img src="/libs/images/01.png" width="280" height="606"/>
+<img src="/libs/images/02.png" width="280" height="606"/>
+<img src="/libs/images/03.png" width="280" height="606"/>
 
-<img src="/libs/images/04.png" width="210" height="606"/>
-<img src="/libs/images/05.png" width="210" height="606"/>
-<img src="/libs/images/06.png" width="210" height="606"/>
+<img src="/libs/images/04.png" width="280" height="606"/>
+<img src="/libs/images/05.png" width="280" height="606"/>
+<img src="/libs/images/06.png" width="280" height="606"/>
 
 </h2>
 
